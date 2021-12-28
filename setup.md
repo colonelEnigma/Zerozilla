@@ -7,6 +7,6 @@ https://www.digitalocean.com/community/tutorial_series/how-to-install-node-js-an
 
 # After Installing Requirnments
 
-Run 'npm install' from inside the 'Zerozill' folder to install dependencies.
+Run 'npm install' from inside the 'Zerozilla' folder to install dependencies.
 
 Run 'npm start' to run the server.
